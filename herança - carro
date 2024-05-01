@@ -1,4 +1,4 @@
-package Ex Herança;
+package ExercícioHerança;
 
 public class Carro extends Veiculo {
  private int NumeroPortas;
